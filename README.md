@@ -1,5 +1,5 @@
 # Linux-Scripts
-Bash Shell Scripts 
+Bash Shell Scripts Tested on Ubuntu 16.04 only!!!
 
 To install scripts, 
 Download the file,
